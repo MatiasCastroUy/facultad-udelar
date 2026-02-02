@@ -1,0 +1,5 @@
+/build/
+/.pmd
+/.classpath
+/bin/
+/target/
